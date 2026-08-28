@@ -2,102 +2,122 @@
 
 # Marlon Carvalho
 
-### Front-end Developer · Information Systems Student
+**Front-end Developer · Information Systems Student**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+web+experiences.;Turning+ideas+into+real+projects.;Learning.+Building.+Improving." alt="Typing SVG" />
+<!-- ANIMAÇÃO DE DIGITAÇÃO -->
 
-<br/>
+<!-- Aqui entra um Typing SVG com estas frases:
+     Front-end Developer
+     Building interfaces with React
+     Turning ideas into experiences
+-->
 
-<a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br>
+
+`HTML`    `CSS`    `JavaScript`    `React`
+
+<br><br>
+
+**[ LinkedIn ]**    **[ Portfolio ]**
 
 </div>
 
-<br/>
+<br>
 
-## About
+## 👨‍💻 About
 
-Estudante de **Sistemas de Informação** e desenvolvedor focado em **Front-end**, interessado em transformar ideias e problemas reais em experiências digitais funcionais.
+I build interfaces for the web and I'm currently focused on improving my skills in **front-end development with React**.
 
-Atualmente desenvolvo projetos para aprimorar minhas habilidades em desenvolvimento web, arquitetura de interfaces e construção de aplicações modernas.
+I enjoy taking an idea, understanding how the interface should work and turning it into something people can actually use.
 
-```javascript
-const marlon = {
-  focus: "Front-end Development",
-  currentlyLearning: ["React", "Java"],
-  interests: ["Web Development", "UI/UX", "Software Engineering"],
-  mindset: "build → learn → improve"
-};
-```
-
-## Tech Stack
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,git,github,python,java,vscode&perline=10" />
+### ⚡ My stack
+
+<!-- Skill Icons:
+HTML · CSS · JavaScript · React
+-->
+
+<br>
+
+`01` **HTML**
+Structure and semantics
+
+`02` **CSS**
+Responsive interfaces and visual design
+
+`03` **JavaScript**
+Interaction and application logic
+
+`04` **React**
+Component-based interfaces
 
 </div>
 
-<br/>
+<br>
 
-## What I'm doing now
+## 🚀 Right now
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Building
+### Building
 
-Aplicações e projetos voltados para problemas reais, explorando desenvolvimento web e interfaces modernas.
+Front-end projects focused on solving real problems and creating better digital experiences.
 
 </td>
-<td width="50%">
 
-### 📚 Learning
+<td width="50%" valign="top">
 
-Aprofundando meus conhecimentos em **React, Java e desenvolvimento de aplicações web modernas**.
+### Improving
+
+React, component architecture, responsive interfaces and modern front-end development.
 
 </td>
 </tr>
 </table>
 
-## GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-<br/>
+<br>
 
 <details>
-<summary><b>⚡ Um pouco mais sobre mim</b></summary>
+<summary><strong>⌁ More about me</strong></summary>
 
-<br/>
+<br>
 
-* 💻 Interesse em desenvolvimento Front-end e aplicações web.
-* 🎨 Gosto de trabalhar a experiência visual e a usabilidade das interfaces.
-* 🧠 Estou constantemente experimentando novas tecnologias através de projetos.
-* 🤝 Aberto a colaborar em projetos e conhecer outros desenvolvedores.
+```txt
+focus       → Front-end Development
+stack       → HTML · CSS · JavaScript · React
+interests   → UI · UX · Web Development
+status      → learning + building
+```
 
 </details>
 
-<br/>
+<br>
+
+<details>
+<summary><strong>⌁ GitHub activity</strong></summary>
+
+<br>
+
+<!-- Aqui entram os cards dinâmicos do GitHub:
+     • GitHub Stats
+     • Most Used Languages
+-->
+
+</details>
+
+<br>
 
 <div align="center">
 
-### Let's build something.
+<!-- SNAKE ANIMADA DAS CONTRIBUIÇÕES -->
 
-<a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+### build. learn. improve.
 
-<br/><br/>
-
-<sub>Code. Learn. Improve. Repeat.</sub>
+<sub>Thanks for visiting.</sub>
 
 </div>
